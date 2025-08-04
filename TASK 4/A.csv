@@ -1,0 +1,21 @@
+Accident_ID,Date,Time,Latitude,Longitude,Road_Conditions,Weather_Conditions,Light_Conditions,Severity
+1,2023-01-05,08:30:00,34.0522,-118.2437,Wet,Rainy,Daylight,Moderate
+2,2023-01-05,17:45:00,34.0550,-118.2500,Dry,Clear,Darkness - Street Lights On,Minor
+3,2023-01-06,10:15:00,34.0600,-118.2300,Dry,Clear,Daylight,Minor
+4,2023-01-06,22:00:00,34.0480,-118.2650,Wet,Foggy,Darkness - No Street Lights,Major
+5,2023-01-07,14:00:00,34.0580,-118.2400,Dry,Clear,Daylight,Minor
+6,2023-01-07,07:00:00,34.0510,-118.2450,Icy,Snow,Darkness - Street Lights On,Major
+7,2023-01-08,09:00:00,34.0450,-118.2550,Dry,Clear,Daylight,Minor
+8,2023-01-08,18:30:00,34.0530,-118.2480,Wet,Rainy,Darkness - Street Lights On,Moderate
+9,2023-01-09,11:00:00,34.0620,-118.2350,Dry,Clear,Daylight,Minor
+10,2023-01-09,20:00:00,34.0490,-118.2600,Dry,Windy,Darkness - Street Lights On,Minor
+11,2023-01-10,06:45:00,34.0500,-118.2400,Wet,Rainy,Darkness - No Street Lights,Moderate
+12,2023-01-10,16:00:00,34.0570,-118.2520,Dry,Clear,Daylight,Minor
+13,2023-01-11,09:30:00,34.0540,-118.2470,Dry,Clear,Daylight,Minor
+14,2023-01-11,19:15:00,34.0470,-118.2630,Icy,Snow,Darkness - Street Lights On,Major
+15,2023-01-12,13:00:00,34.0590,-118.2380,Dry,Clear,Daylight,Minor
+16,2023-01-12,08:00:00,34.0505,-118.2445,Wet,Rainy,Daylight,Moderate
+17,2023-01-13,17:00:00,34.0560,-118.2510,Dry,Clear,Darkness - Street Lights On,Minor
+18,2023-01-14,10:45:00,34.0610,-118.2320,Dry,Clear,Daylight,Minor
+19,2023-01-14,21:30:00,34.0485,-118.2640,Wet,Foggy,Darkness - No Street Lights,Major
+20,2023-01-15,14:30:00,34.0585,-118.2390,Dry,Clear,Daylight,Minor
